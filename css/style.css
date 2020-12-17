@@ -1,0 +1,16 @@
+.title-shadow {
+  text-shadow: 2px 2px 2px #0c0707;
+}
+
+.line {
+    width: 98vw;    
+}
+
+.weather-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.weather-info-text {
+  font-size: 18px;
+}
