@@ -1,1 +1,1 @@
-# extra-credit
+CSC 225 - Extra Credit Project
